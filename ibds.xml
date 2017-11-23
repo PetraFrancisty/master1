@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ds="http://mre.zcu.cz/ontology/dasta.owl#"
+   xmlns:ibd="http://mre.zcu.cz/ontology/ibd.owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://test/b3341c29-03af-4e8e-b039-8b0f3fd5919c">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Low"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ibd:pCDAI>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Low"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mre.zcu.cz/id/0faf737fe7658f1112d58e7cba081b57a41bf6e7">
+    <ibd:hasLaboratory rdf:resource="http://test/fd7937e9-0ccf-4647-95dc-f78e8f467327"/>
+    <ibd:hasWeight rdf:resource="http://test/032a17d8-9e2c-4f61-8723-2f3a9dfdfaa7"/>
+    <ds:firstName>Pavel</ds:firstName>
+    <ibd:hasLaboratory rdf:resource="http://test/af280471-768c-4c05-b856-3bcc787944d8"/>
+    <ibd:hasWeight rdf:resource="http://test/7625ae2c-3585-413a-97c7-da8e63e68473"/>
+    <ds:lastName>Pravidelný</ds:lastName>
+    <ibd:hasSerology rdf:resource="http://test/880c3beb-7b4c-4732-abc3-9a25bbcd285b"/>
+    <ibd:hasCheckup rdf:resource="http://test/80adf148-9449-4d6c-bc79-ee82884a4c41"/>
+    <ibd:hasCheckup rdf:resource="http://test/31cd7051-bc1e-4d19-9ddc-1afc0b835b18"/>
+    <ds:address rdf:resource="http://mre.zcu.cz/id/a55b3e558dbb07afe07e657a435e6e0edccb5c84"/>
+    <ibd:hasComplication rdf:resource="http://test/8ac5bb29-09d5-43b5-b2f0-7189f025e382"/>
+    <ibd:hasComplication rdf:resource="http://test/8ffdab14-b78e-44cd-8231-835b169a5d4b"/>
+    <ibd:hasComplication rdf:resource="http://test/2c3103f3-3240-4459-894c-6c2f6054b842"/>
+    <ibd:hasWeight rdf:resource="http://test/cefd58dd-aa2e-4454-bf1f-89802afe5b91"/>
+    <ibd:hasLaboratory rdf:resource="http://test/24340e50-816d-46ac-a7f9-7f6c1423982a"/>
+    <ibd:hasLaboratory rdf:resource="http://test/a8f84e03-a085-458b-b898-38639e932551"/>
+    <ibd:hasSideEffect rdf:resource="http://test/2d2efd44-c9bf-4611-ab43-422c4abc1a61"/>
+    <ibd:hasComplication rdf:resource="http://test/b77a1b9c-7d42-4af6-b38c-16fb3a47a95d"/>
+    <ibd:hasCheckup rdf:resource="http://test/3df21aab-487c-429e-ae78-6b4de404113d"/>
+    <ibd:hasCheckup rdf:resource="http://test/12015607-9c0f-41fd-bb09-288ff400d5a6"/>
+    <ibd:hasSideEffect rdf:resource="http://test/3483c484-f813-4e8c-9d75-617d0c01b890"/>
+    <ibd:hasCheckup rdf:resource="http://test/d82fb8ad-1792-41ca-9d1e-e12b1cc5b5e0"/>
+    <ibd:hasLaboratory rdf:resource="http://test/888ab290-79f3-4f53-bc32-dbfeece579dc"/>
+    <ibd:hasSideEffect rdf:resource="http://test/0fd7b94e-a2d8-4df8-b652-8246560ab08f"/>
+    <ibd:hasHistology rdf:resource="http://test/43db7762-39f7-4609-8f09-a9cccc6c31be"/>
+    <ibd:hasComplication rdf:resource="http://test/f0e1ab6b-47b3-4ed7-a214-b1f24c8780d6"/>
+    <ibd:hasWeight rdf:resource="http://test/aa58461c-245f-43df-9d5c-c78a2618bedd"/>
+    <ibd:hasLaboratory rdf:resource="http://test/2b525c33-54e0-4a99-8ba9-499757c62c2d"/>
+    <ibd:hasComplication rdf:resource="http://test/fe9d69b5-c85b-4126-af35-7b4880a75c07"/>
+    <ibd:hasSideEffect rdf:resource="http://test/624ad2e8-532f-42b9-9255-293afea0671b"/>
+    <ibd:hasComplication rdf:resource="http://test/920edf2a-9739-4d94-99dd-5763d7667e87"/>
+    <ds:sex>M</ds:sex>
+    <ibd:hasSideEffect rdf:resource="http://test/e39f8d6f-9bd0-4607-ab45-883ec59940c1"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Patient"/>
+    <ibd:hasHeight rdf:resource="http://test/31101338-3c25-4ee0-82bc-8f3b2d2f8959"/>
+    <ibd:hasCheckup rdf:resource="http://test/4965dbe1-084f-4424-98b6-f7b3b2f90b00"/>
+    <ds:datetimeBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-10</ds:datetimeBirth>
+    <ibd:hasWeight rdf:resource="http://test/b3bc8f10-d823-42c6-b5d1-ac169a543ca4"/>
+    <ibd:hasHeight rdf:resource="http://test/7b474278-4bd8-4dc8-bad1-57b2ba07ccd8"/>
+    <ibd:hasImmunology rdf:resource="http://test/d6622113-582a-423f-a599-f933359ef69b"/>
+    <ibd:hasWeight rdf:resource="http://test/ff86300c-cd4d-46f0-804f-5d5cf957c658"/>
+    <ibd:hasComplication rdf:resource="http://test/025bd161-691d-4abc-b047-ee79715e9b55"/>
+    <ibd:hasHeight rdf:resource="http://test/53706bf1-f8e7-4f44-bb91-5ce2d96fd5db"/>
+    <ibd:hasLaboratory rdf:resource="http://test/fd1518e8-0e1b-4955-96db-9b0f706c7465"/>
+    <ibd:hasHeight rdf:resource="http://test/1bdc8b95-3540-4048-afea-20492fcbb619"/>
+    <ibd:hasCheckup rdf:resource="http://test/9703fe7b-d475-4fde-9cce-b83e5f7f0d77"/>
+    <ibd:hasWeight rdf:resource="http://test/892cffd6-5e0a-4869-9464-b83821122d6b"/>
+    <ibd:hasWeight rdf:resource="http://test/b914ec12-d2b2-4016-8ed3-81409db5ee9b"/>
+    <ibd:hasSideEffect rdf:resource="http://test/4e3a284c-f761-4cfd-ba4d-8e9e5cca6665"/>
+    <ds:patientID2>9911101234</ds:patientID2>
+    <ibd:hasSideEffect rdf:resource="http://test/981cfdfb-f22b-49ba-b062-fb3211879265"/>
+    <ibd:hasSideEffect rdf:resource="http://test/70667e19-59e3-4c7e-8c83-3e560cac558a"/>
+    <ibd:hasCheckup rdf:resource="http://test/6c983c9f-d8aa-4b1f-af56-8bb516cda410"/>
+    <ibd:hasInflammatoryBowelDisease rdf:resource="http://test/5fc1872a-aadb-40a1-aad6-3332306e72b3"/>
+    <ibd:hasLaboratory rdf:resource="http://test/e638495a-0966-4032-80a3-64cdfabf9a2e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/53b98856-f719-4fe5-b7af-279d3af19952">
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-28</ibd:eventDate>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/e39f8d6f-9bd0-4607-ab45-883ec59940c1">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</ibd:eventDate>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/a04d5c57-cd28-47b0-8e1f-31443bd682d4">
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/129a182b-c471-45dc-8c07-137d4bc05917">
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ds:heightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.1</ibd:heightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/85459f55-6e96-4158-bf4b-f3543d58b6f0">
+    <ibd:hasHistologyEsophagus rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CryptAbscesses"/>
+    <ibd:hasHistologyDuodenum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Granuloma"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01</ibd:eventDate>
+    <ibd:hasHistologyTerminalIleum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:hasHistologyDuodenum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CryptAbscesses"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Histology"/>
+    <ibd:hasHistologyStomach rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryChanges"/>
+    <ibd:hasHistologyEsophagus rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Granuloma"/>
+    <ibd:hasHistologyColon rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Granuloma"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/fd1518e8-0e1b-4955-96db-9b0f706c7465">
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</ibd:eventDate>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</ibd:aLT>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/892cffd6-5e0a-4869-9464-b83821122d6b">
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</ds:weightValue>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.2</ibd:weightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/025bd161-691d-4abc-b047-ee79715e9b55">
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/7625ae2c-3585-413a-97c7-da8e63e68473">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-27</ibd:eventDate>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</ds:weightValue>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.5</ibd:weightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/624ad2e8-532f-42b9-9255-293afea0671b">
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-23</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/8ffdab14-b78e-44cd-8231-835b169a5d4b">
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/3d15e099-f85a-4c62-9337-c2cd41216e8b">
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-08-27</ibd:eventDate>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/5fc1872a-aadb-40a1-aad6-3332306e72b3">
+    <ibd:diagnosisAge rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.2</ibd:diagnosisAge>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryBowelDisease"/>
+    <ibd:hasCharacteristic rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Stricturing"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Colon"/>
+    <ibd:hasCharacteristic rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#NotStricturingnotPenetrating"/>
+    <ibd:hasClassification rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CrohnsDisease"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#TerminalIleum"/>
+    <ibd:diagnosisDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01</ibd:diagnosisDate>
+    <ibd:hasAgeGroup rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#10To16Years"/>
+    <ibd:isClassificationDefinite rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ibd:isClassificationDefinite>
+    <ibd:hasGrowthDefect rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#WithoutGrowthDefect"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Ileocolon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b00ab62c-0524-4df1-a081-a69caa13f184">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/eb3e8a69-012e-435b-b125-5c93f369fb92">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Serology"/>
+    <ibd:hasHSV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasVZV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Positive"/>
+    <ibd:hasEBV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasCMV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/89a7faa0-e3b5-4737-bab2-ae242ebac9ab">
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/0fd7b94e-a2d8-4df8-b652-8246560ab08f">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/53706bf1-f8e7-4f44-bb91-5ce2d96fd5db">
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ds:heightValue>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.08</ibd:heightStandardScore>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mre.zcu.cz/id/4470a2819a640aa16dee17defa068383e062fa24">
+    <ds:lastName>Náhodný</ds:lastName>
+    <ibd:hasCheckup rdf:resource="http://test/676947d2-e86d-4586-a8da-a1ec215b662e"/>
+    <ibd:hasSerology rdf:resource="http://test/11b74e9c-e0f8-40e2-aa56-7eba76dc67ac"/>
+    <ds:patientID2>9709095555</ds:patientID2>
+    <ibd:hasComplication rdf:resource="http://test/63f89132-0910-42e6-86c8-6dfe0e05b3df"/>
+    <ibd:hasCheckup rdf:resource="http://test/c009741d-856e-4cd1-a161-833c56394624"/>
+    <ibd:hasHeight rdf:resource="http://test/129a182b-c471-45dc-8c07-137d4bc05917"/>
+    <ibd:hasLaboratory rdf:resource="http://test/06d33bdb-6dcd-4858-8adf-89daaddbc44b"/>
+    <ds:firstName>Joshua</ds:firstName>
+    <ds:sex>M</ds:sex>
+    <ibd:hasWeight rdf:resource="http://test/58ca9167-5474-4ae1-826c-45fda7b8c157"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Patient"/>
+    <ibd:hasComplication rdf:resource="http://test/04cf0834-79b5-4640-bdc0-3efd8fb515b9"/>
+    <ibd:hasSideEffect rdf:resource="http://test/68661f67-9dc8-4b22-a9ac-df103917da1a"/>
+    <ibd:hasHeight rdf:resource="http://test/f42f03b9-3d6c-4768-bf8c-26b406b9e05e"/>
+    <ibd:hasWeight rdf:resource="http://test/65261371-4b58-4bf2-8d6d-d37d52d60fa9"/>
+    <ibd:hasSideEffect rdf:resource="http://test/42fc2241-bcb1-4b55-90cb-98f103f85053"/>
+    <ibd:hasCheckup rdf:resource="http://test/74151fba-fad4-4cc1-8c22-701f8d45c80f"/>
+    <ibd:hasInflammatoryBowelDisease rdf:resource="http://test/cdca1298-9e7c-4c5a-912c-71f782efd034"/>
+    <ibd:hasWeight rdf:resource="http://test/4922ef45-b765-4b02-afc0-9a5f466b1128"/>
+    <ds:datetimeBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-09-09</ds:datetimeBirth>
+    <ibd:hasSideEffect rdf:resource="http://test/522e561d-5ff1-4703-8d45-eb7976029a2a"/>
+    <ibd:hasLaboratory rdf:resource="http://test/03ac34f9-5753-4dee-bf7e-2a10a2677c18"/>
+    <ibd:hasLaboratory rdf:resource="http://test/0b75d866-f104-4f9f-b264-947b430b6866"/>
+    <ibd:hasHistology rdf:resource="http://test/85459f55-6e96-4158-bf4b-f3543d58b6f0"/>
+    <ibd:hasComplication rdf:resource="http://test/42ede67b-6ca5-4e33-ad51-890ef1712421"/>
+    <ibd:hasLaboratory rdf:resource="http://test/fbe21b0f-00a3-4a7c-ada8-9200be541845"/>
+    <ibd:hasCheckup rdf:resource="http://test/b00ab62c-0524-4df1-a081-a69caa13f184"/>
+    <ibd:hasComplication rdf:resource="http://test/53b98856-f719-4fe5-b7af-279d3af19952"/>
+    <ds:address rdf:resource="http://mre.zcu.cz/id/4e2108ffd5551f2b753fca2ead1f63b4463d08cc"/>
+    <ibd:hasLaboratory rdf:resource="http://test/b785c419-a674-4ee9-bb1b-b84a8c6a8a34"/>
+    <ibd:hasSideEffect rdf:resource="http://test/d818accd-bdac-404e-a3cc-a483ca1ef4f2"/>
+    <ibd:hasCheckup rdf:resource="http://test/12aeaaaa-471d-48f0-bf6e-0562bd6fba2e"/>
+    <ibd:hasHeight rdf:resource="http://test/10af04f8-a18b-420c-a94b-80614a7a3c27"/>
+    <ibd:hasLaboratory rdf:resource="http://test/beafe68d-d38f-48d4-b86e-cd40e23db0de"/>
+    <ibd:hasImmunology rdf:resource="http://test/71c731f9-0b03-4642-b3c8-b10e786329e1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/79ebd714-a571-4795-98b2-394bdcb76a9a">
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-25</ibd:eventDate>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/18fa0553-33d6-4c8f-95c6-86160822b5f6">
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</ds:heightValue>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.0</ibd:heightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mre.zcu.cz/id/a4c0dede9b6709333e7a2be7e3203dee0477b58e">
+    <ds:sex>M</ds:sex>
+    <ds:lastName>Nepravidelný</ds:lastName>
+    <ibd:hasImmunology rdf:resource="http://test/02b1b4f9-9ca3-489c-b29e-cd566c15d768"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Patient"/>
+    <ibd:hasInflammatoryBowelDisease rdf:resource="http://test/6f85bd5f-788a-4058-97f7-a54d55b7c171"/>
+    <ibd:hasLaboratory rdf:resource="http://test/52132633-085c-4293-9a75-2293c5ee60c7"/>
+    <ibd:hasSideEffect rdf:resource="http://test/a5be30c6-6599-487b-bc0d-4443c3be54cb"/>
+    <ibd:hasSideEffect rdf:resource="http://test/89a7faa0-e3b5-4737-bab2-ae242ebac9ab"/>
+    <ibd:hasWeight rdf:resource="http://test/81076e49-70bc-4aa1-99f1-e8e8311f0580"/>
+    <ibd:hasCheckup rdf:resource="http://test/b3341c29-03af-4e8e-b039-8b0f3fd5919c"/>
+    <ds:datetimeBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-10-10</ds:datetimeBirth>
+    <ibd:hasComplication rdf:resource="http://test/3d15e099-f85a-4c62-9337-c2cd41216e8b"/>
+    <ibd:hasHistology rdf:resource="http://test/1e14b56b-32aa-4ee1-af17-ee5637fe98d2"/>
+    <ds:patientID2>9810109876</ds:patientID2>
+    <ibd:hasLaboratory rdf:resource="http://test/b961b50f-bbab-49df-8e46-bf9162c3d4dc"/>
+    <ibd:hasCheckup rdf:resource="http://test/b5d67784-d88d-4d03-8a68-c51fd9184844"/>
+    <ds:address rdf:resource="http://mre.zcu.cz/id/e2715dad6fb814a44cd55d2689619467aad54872"/>
+    <ibd:hasHeight rdf:resource="http://test/d7231169-643f-4583-89a9-77da85121e6a"/>
+    <ibd:hasCheckup rdf:resource="http://test/daa7e338-1c60-4792-8521-e46af99c8623"/>
+    <ibd:hasLaboratory rdf:resource="http://test/bb9b34fd-3b8b-497a-9bcf-64afa2186d18"/>
+    <ibd:hasSideEffect rdf:resource="http://test/79ebd714-a571-4795-98b2-394bdcb76a9a"/>
+    <ds:firstName>Jonáš</ds:firstName>
+    <ibd:hasLaboratory rdf:resource="http://test/47350f8c-8e4b-4417-8938-35f7e8b95eba"/>
+    <ibd:hasSideEffect rdf:resource="http://test/39301f0b-d984-48d2-b2d5-cdab35e9a70c"/>
+    <ibd:hasWeight rdf:resource="http://test/db05b288-eb9a-4cd8-9b91-4d9a54764e51"/>
+    <ibd:hasComplication rdf:resource="http://test/9fbb06bb-9188-4315-9338-db7f8a8ede51"/>
+    <ibd:hasWeight rdf:resource="http://test/71b4f7c2-6719-411c-a47e-ef4a8e519eae"/>
+    <ibd:hasSideEffect rdf:resource="http://test/bea01507-63db-406d-87cb-b52e1eb8aaad"/>
+    <ibd:hasCheckup rdf:resource="http://test/d5e754b4-ce12-42de-ba36-348274a7f220"/>
+    <ibd:hasSerology rdf:resource="http://test/eb3e8a69-012e-435b-b125-5c93f369fb92"/>
+    <ibd:hasWeight rdf:resource="http://test/633cea51-5dda-4475-8b06-90ee777397d1"/>
+    <ibd:hasCheckup rdf:resource="http://test/75f414fc-55ae-4560-85f1-09774de2f6b8"/>
+    <ibd:hasLaboratory rdf:resource="http://test/80a4948c-7f1e-4967-b1ae-d361132ea3f1"/>
+    <ibd:hasComplication rdf:resource="http://test/a04d5c57-cd28-47b0-8e1f-31443bd682d4"/>
+    <ibd:hasHeight rdf:resource="http://test/18fa0553-33d6-4c8f-95c6-86160822b5f6"/>
+    <ibd:hasCheckup rdf:resource="http://test/7bb4c113-1221-4f88-9b18-99d48de6d9b2"/>
+    <ibd:hasSideEffect rdf:resource="http://test/89678d3a-1ad8-494e-b4d9-adf66d457500"/>
+    <ibd:hasLaboratory rdf:resource="http://test/b36c3988-f6f5-4d78-aed2-374079b21c8b"/>
+    <ibd:hasHeight rdf:resource="http://test/563b30fd-04ca-4f81-85a4-558be87d6f4f"/>
+    <ibd:hasComplication rdf:resource="http://test/1747ca6a-b5b8-46fe-9e5d-0d3dc2e5a128"/>
+    <ibd:hasWeight rdf:resource="http://test/8ab35d6f-6846-48e4-85c3-18573b89211c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/e638495a-0966-4032-80a3-64cdfabf9a2e">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</ibd:aLT>
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.0</ibd:albumin>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/39301f0b-d984-48d2-b2d5-cdab35e9a70c">
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/71c731f9-0b03-4642-b3c8-b10e786329e1">
+    <ibd:hasImmunologyIntestineGobletCell rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SlightlyPositive"/>
+    <ibd:hasImmunologyAbpancreas rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SlightlyPositive"/>
+    <ibd:hasImmunologyPANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SlightlyPositive"/>
+    <ibd:hasImmunologyAtypANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:immunoglobulinG rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ibd:immunoglobulinG>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Immunology"/>
+    <ibd:hasImmunologyASCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyCANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyANA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SlightlyPositive"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-02</ibd:eventDate>
+    <ibd:hasImmunologyASMA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SlightlyPositive"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/8ac5bb29-09d5-43b5-b2f0-7189f025e382">
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-23</ibd:eventDate>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/a8f84e03-a085-458b-b898-38639e932551">
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</ibd:aST>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.0</ibd:aLT>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.0</ibd:albumin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b36c3988-f6f5-4d78-aed2-374079b21c8b">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-31</ibd:eventDate>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.0</ibd:albumin>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</ibd:aLT>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/24340e50-816d-46ac-a7f9-7f6c1423982a">
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">17.0</ibd:albumin>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-27</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.0</ibd:aST>
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/11b74e9c-e0f8-40e2-aa56-7eba76dc67ac">
+    <ibd:hasEBV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasVZV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Positive"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-02</ibd:eventDate>
+    <ibd:hasCMV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Positive"/>
+    <ibd:hasHSV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Serology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/31101338-3c25-4ee0-82bc-8f3b2d2f8959">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</ds:heightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.07</ibd:heightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b3bc8f10-d823-42c6-b5d1-ac169a543ca4">
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</ds:weightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.5</ibd:weightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/633cea51-5dda-4475-8b06-90ee777397d1">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.2</ibd:weightStandardScore>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</ds:weightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-25</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/bea01507-63db-406d-87cb-b52e1eb8aaad">
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/db05b288-eb9a-4cd8-9b91-4d9a54764e51">
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.2</ibd:weightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ds:weightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/cdca1298-9e7c-4c5a-912c-71f782efd034">
+    <ibd:diagnosisDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01</ibd:diagnosisDate>
+    <ibd:hasCharacteristic rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Penetrating"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryBowelDisease"/>
+    <ibd:hasClassification rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CrohnsDisease"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#ProximallyToLigamentOfTreitz"/>
+    <ibd:diagnosisAge rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.0</ibd:diagnosisAge>
+    <ibd:isClassificationDefinite rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ibd:isClassificationDefinite>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Colon"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Ileocolon"/>
+    <ibd:hasGrowthDefect rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#WithGrowthDefect"/>
+    <ibd:hasAgeGroup rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#17To40Years"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/6c983c9f-d8aa-4b1f-af56-8bb516cda410">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-23</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/80adf148-9449-4d6c-bc79-ee82884a4c41">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ibd:pCDAI>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/d818accd-bdac-404e-a3cc-a483ca1ef4f2">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-28</ibd:eventDate>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/89678d3a-1ad8-494e-b4d9-adf66d457500">
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-08-27</ibd:eventDate>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/888ab290-79f3-4f53-bc32-dbfeece579dc">
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</ibd:aST>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.0</ibd:aLT>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">12.0</ibd:albumin>
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/c009741d-856e-4cd1-a161-833c56394624">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ibd:pCDAI>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/6f85bd5f-788a-4058-97f7-a54d55b7c171">
+    <ibd:hasCharacteristic rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#NotStricturingnotPenetrating"/>
+    <ibd:diagnosisDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:diagnosisDate>
+    <ibd:hasAgeGroup rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#10To16Years"/>
+    <ibd:isClassificationDefinite rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ibd:isClassificationDefinite>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryBowelDisease"/>
+    <ibd:diagnosisAge rdf:datatype="http://www.w3.org/2001/XMLSchema#float">16.7</ibd:diagnosisAge>
+    <ibd:hasGrowthDefect rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#WithGrowthDefect"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Ileocolon"/>
+    <ibd:hasCharacteristic rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Perianal"/>
+    <ibd:hasLocation rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#ProximallyToLigamentOfTreitz"/>
+    <ibd:hasClassification rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CrohnsDisease"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/3df21aab-487c-429e-ae78-6b4de404113d">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-27</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b5d67784-d88d-4d03-8a68-c51fd9184844">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-31</ibd:eventDate>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ibd:pCDAI>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Low"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/f0e1ab6b-47b3-4ed7-a214-b1f24c8780d6">
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/47350f8c-8e4b-4417-8938-35f7e8b95eba">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</ibd:aST>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">10.0</ibd:albumin>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-08-27</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/1747ca6a-b5b8-46fe-9e5d-0d3dc2e5a128">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/d7231169-643f-4583-89a9-77da85121e6a">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</ds:heightValue>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.1</ibd:heightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b961b50f-bbab-49df-8e46-bf9162c3d4dc">
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.0</ibd:aST>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-25</ibd:eventDate>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">17.0</ibd:albumin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/032a17d8-9e2c-4f61-8723-2f3a9dfdfaa7">
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.2</ibd:weightStandardScore>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</ds:weightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/12015607-9c0f-41fd-bb09-288ff400d5a6">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/d6622113-582a-423f-a599-f933359ef69b">
+    <ibd:hasImmunologyAbpancreas rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <ibd:hasImmunologyAtypANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyCANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyASCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Immunology"/>
+    <ibd:hasImmunologyIntestineGobletCell rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:immunoglobulinG rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</ibd:immunoglobulinG>
+    <ibd:hasImmunologyPANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasImmunologyASMA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyANA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/42fc2241-bcb1-4b55-90cb-98f103f85053">
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-16</ibd:eventDate>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/2c3103f3-3240-4459-894c-6c2f6054b842">
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-27</ibd:eventDate>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/9fbb06bb-9188-4315-9338-db7f8a8ede51">
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/31cd7051-bc1e-4d19-9ddc-1afc0b835b18">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ibd:pCDAI>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/920edf2a-9739-4d94-99dd-5763d7667e87">
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/9703fe7b-d475-4fde-9cce-b83e5f7f0d77">
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ibd:pCDAI>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/981cfdfb-f22b-49ba-b062-fb3211879265">
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-27</ibd:eventDate>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b785c419-a674-4ee9-bb1b-b84a8c6a8a34">
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-03</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</ibd:aST>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">16.0</ibd:aLT>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/81076e49-70bc-4aa1-99f1-e8e8311f0580">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</ds:weightValue>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.7</ibd:weightStandardScore>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/70667e19-59e3-4c7e-8c83-3e560cac558a">
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/4e3a284c-f761-4cfd-ba4d-8e9e5cca6665">
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/cefd58dd-aa2e-4454-bf1f-89802afe5b91">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-11</ibd:eventDate>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8</ibd:weightStandardScore>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</ds:weightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/10af04f8-a18b-420c-a94b-80614a7a3c27">
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.1</ibd:heightStandardScore>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ds:heightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-28</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/fbe21b0f-00a3-4a7c-ada8-9200be541845">
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">15.0</ibd:aLT>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.0</ibd:aST>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-27</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/43db7762-39f7-4609-8f09-a9cccc6c31be">
+    <ibd:hasHistologyColon rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryChanges"/>
+    <ibd:hasHistologyEsophagus rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Histology"/>
+    <ibd:hasHistologyTerminalIleum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Granuloma"/>
+    <ibd:hasHistologyStomach rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:hasHistologyDuodenum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:hasHistologyTerminalIleum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#InflammatoryChanges"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/2d2efd44-c9bf-4611-ab43-422c4abc1a61">
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-11</ibd:eventDate>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/3483c484-f813-4e8c-9d75-617d0c01b890">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b77a1b9c-7d42-4af6-b38c-16fb3a47a95d">
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/af280471-768c-4c05-b856-3bcc787944d8">
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">17.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</ibd:aST>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.0</ibd:aLT>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/1e14b56b-32aa-4ee1-af17-ee5637fe98d2">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Histology"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:hasHistologyStomach rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#CryptAbscesses"/>
+    <ibd:hasHistologyStomach rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:hasHistologyEsophagus rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:hasHistologyDuodenum rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/0b75d866-f104-4f9f-b264-947b430b6866">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.0</ibd:aLT>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-22</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">16.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/aa58461c-245f-43df-9d5c-c78a2618bedd">
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</ds:weightValue>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.1</ibd:weightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-18</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/03ac34f9-5753-4dee-bf7e-2a10a2677c18">
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.0</ibd:albumin>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-28</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/8ab35d6f-6846-48e4-85c3-18573b89211c">
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">69.0</ds:weightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-31</ibd:eventDate>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ibd:weightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/04cf0834-79b5-4640-bdc0-3efd8fb515b9">
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/fd7937e9-0ccf-4647-95dc-f78e8f467327">
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.0</ibd:albumin>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-11</ibd:eventDate>
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/522e561d-5ff1-4703-8d45-eb7976029a2a">
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-03</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/58ca9167-5474-4ae1-826c-45fda7b8c157">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.1</ibd:weightStandardScore>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ds:weightValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/2b525c33-54e0-4a99-8ba9-499757c62c2d">
+    <ibd:hasTPMT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#1_1"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">12.0</ibd:albumin>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-23</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.0</ibd:aST>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/02b1b4f9-9ca3-489c-b29e-cd566c15d768">
+    <ibd:hasImmunologyPANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Immunology"/>
+    <ibd:hasImmunologyASMA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyCANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:immunoglobulinG rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</ibd:immunoglobulinG>
+    <ibd:hasImmunologyANA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyAtypANCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyAbpancreas rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasImmunologyASCA rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:hasImmunologyIntestineGobletCell rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/ff86300c-cd4d-46f0-804f-5d5cf957c658">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-24</ibd:eventDate>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.15</ibd:weightStandardScore>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</ds:weightValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/fe9d69b5-c85b-4126-af35-7b4880a75c07">
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-11</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/d5e754b4-ce12-42de-ba36-348274a7f220">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/880c3beb-7b4c-4732-abc3-9a25bbcd285b">
+    <ibd:hasCMV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Positive"/>
+    <ibd:hasHSV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Serology"/>
+    <ibd:hasEBV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:hasVZV rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Negative"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/06d33bdb-6dcd-4858-8adf-89daaddbc44b">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</ibd:aLT>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.0</ibd:aST>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</ibd:albumin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/1bdc8b95-3540-4048-afea-20492fcbb619">
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</ds:heightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.07</ibd:heightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/68661f67-9dc8-4b22-a9ac-df103917da1a">
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/7bb4c113-1221-4f88-9b18-99d48de6d9b2">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-08-27</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/d82fb8ad-1792-41ca-9d1e-e12b1cc5b5e0">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</ibd:eventDate>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/676947d2-e86d-4586-a8da-a1ec215b662e">
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ibd:pCDAI>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-28</ibd:eventDate>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/4965dbe1-084f-4424-98b6-f7b3b2f90b00">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-09-11</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/71b4f7c2-6719-411c-a47e-ef4a8e519eae">
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ibd:weightStandardScore>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</ds:weightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/12aeaaaa-471d-48f0-bf6e-0562bd6fba2e">
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-16</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ibd:pCDAI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/7b474278-4bd8-4dc8-bad1-57b2ba07ccd8">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-02</ibd:eventDate>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ds:heightValue>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.1</ibd:heightStandardScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/a5be30c6-6599-487b-bc0d-4443c3be54cb">
+    <ibd:hasElevatedALT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-31</ibd:eventDate>
+    <ibd:hasElevatedLPS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasMarrowSuppression rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasElevatedAST rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:otherSideEffects></ibd:otherSideEffects>
+    <ibd:hasAbdominalPain rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasNausea rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#SideEffect"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/42ede67b-6ca5-4e33-ad51-890ef1712421">
+    <ibd:otherComplication></ibd:otherComplication>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-16</ibd:eventDate>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/daa7e338-1c60-4792-8521-e46af99c8623">
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ibd:pCDAI>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-25</ibd:eventDate>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/74151fba-fad4-4cc1-8c22-701f8d45c80f">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-28</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ibd:pCDAI>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#High"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/63f89132-0910-42e6-86c8-6dfe0e05b3df">
+    <ibd:hasComplicationEN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationAT rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationDM rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationStenosis rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+    <ibd:hasComplicationFistula rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Yes"/>
+    <ibd:hasComplicationPSC rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#No"/>
+    <ibd:hasComplicationCS rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Complication"/>
+    <ibd:hasComplicationAIH rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:hasComplicationAbscess rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Unknown"/>
+    <ibd:otherComplication></ibd:otherComplication>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/563b30fd-04ca-4f81-85a4-558be87d6f4f">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.1</ibd:heightStandardScore>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</ds:heightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/65261371-4b58-4bf2-8d6d-d37d52d60fa9">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.1</ibd:weightStandardScore>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">61.0</ds:weightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-28</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/75f414fc-55ae-4560-85f1-09774de2f6b8">
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+    <ibd:pCDAI rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ibd:pCDAI>
+    <ibd:has6TGN rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <ibd:has6MMP rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Normal"/>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Checkup"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/52132633-085c-4293-9a75-2293c5ee60c7">
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">17.0</ibd:albumin>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-14</ibd:eventDate>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.0</ibd:aLT>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.0</ibd:aST>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/f42f03b9-3d6c-4768-bf8c-26b406b9e05e">
+    <ibd:heightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.1</ibd:heightStandardScore>
+    <ds:heightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ds:heightValue>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Height"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/b914ec12-d2b2-4016-8ed3-81409db5ee9b">
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.2</ibd:weightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-23</ibd:eventDate>
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</ds:weightValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/beafe68d-d38f-48d4-b86e-cd40e23db0de">
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</ibd:aLT>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.0</ibd:aST>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-10</ibd:eventDate>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.0</ibd:albumin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/bb9b34fd-3b8b-497a-9bcf-64afa2186d18">
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">12.0</ibd:albumin>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-27</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.0</ibd:aST>
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</ibd:aLT>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/80a4948c-7f1e-4967-b1ae-d361132ea3f1">
+    <ibd:aLT rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.0</ibd:aLT>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-01</ibd:eventDate>
+    <ibd:aST rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.0</ibd:aST>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/ibd.owl#Laboratory"/>
+    <ibd:albumin rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.0</ibd:albumin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test/4922ef45-b765-4b02-afc0-9a5f466b1128">
+    <ds:weightValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</ds:weightValue>
+    <ibd:eventDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-08</ibd:eventDate>
+    <ibd:weightStandardScore rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.1</ibd:weightStandardScore>
+    <rdf:type rdf:resource="http://mre.zcu.cz/ontology/dasta.owl#Weight"/>
+  </rdf:Description>
+</rdf:RDF>
